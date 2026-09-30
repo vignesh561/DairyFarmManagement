@@ -1,0 +1,10 @@
+Farm_name="madhu Dairy Farm"
+print(Farm_name)
+print(len(Farm_name))
+print(Farm_name.upper())
+print(Farm_name.lower())
+print(Farm_name.replace("Madhu","Lakshmi"))
+print(Farm_name.split())
+print(Farm_name.capitalize())
+print(Farm_name.title())
+print(Farm_name.count("a"))
